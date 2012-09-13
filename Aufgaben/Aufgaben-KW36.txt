@@ -1,4 +1,4 @@
-﻿Fragen zu Kapitel 6
+	Fragen zu Kapitel 6
 1. Frage – Antwort:
 Da Versionskontrollen helfen, zu jedem Stand zurück zu springen und so genau die Entwicklung verfolgen und dokumentieren kann, bei Bedarf aber auch korrigieren kann, spielt die Grösse eines Projekts keine Rolle. Wenn verschiedene Versionen existieren, kann es zu Verwirrungen führen.
 
@@ -10,7 +10,7 @@ Branch: Ein Zweig, eigene Entwicklung, Abspaltung vom Hauptstamm, kann auch temp
 Trunk: Hauptstamm, in welchem Entwicklung stattfinden sollte. Sollte immer dem neuesten Stand entsprechen
 
 
-Fragen zu Kapitel 1
+	Fragen zu Kapitel 1
 
 1. Frage – Antwort:
 Sie kann zu Beginn aufwendig sein, weil sie viel Zeit und vorallem Kundenkontakt kostet. 
