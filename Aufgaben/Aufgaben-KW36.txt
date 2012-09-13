@@ -1,0 +1,23 @@
+	Fragen zu Kapitel 6
+1. Frage – Antwort:
+Da Versionskontrollen helfen, zu jedem Stand zurück zu springen und so genau die Entwicklung verfolgen und dokumentieren kann, bei Bedarf aber auch korrigieren kann, spielt die Grösse eines Projekts keine Rolle. Wenn verschiedene Versionen existieren, kann es zu Verwirrungen führen.
+
+2. Frage – Antwort:
+Loggen von Änderungen, erstellen von History, möglichkeit eines ständigen Fallbacks
+3. Frage – Antwort:
+Tag: Name, welcher zu einer bestimmten Version gemacht wird, um Zustand einfacher finden zu können
+Branch: Ein Zweig, eigene Entwicklung, Abspaltung vom Hauptstamm, kann auch temporär sein, um  Änderungen durchführen zu können, ohne den Hauptstamm mitzuverändern
+Trunk: Hauptstamm, in welchem Entwicklung stattfinden sollte. Sollte immer dem neuesten Stand entsprechen
+
+
+	Fragen zu Kapitel 1
+
+1. Frage – Antwort:
+Sie kann zu Beginn aufwendig sein, weil sie viel Zeit und vorallem Kundenkontakt kostet. 
+2. Frage – Antwort
+Mehrere, nach Prioritäten und Dauer geordnete Anforderungen, welche nach Umsetzung gezeigt werden um frühzeitig Feedback zu erhalten. Es können auch Änderungswünsche oder neue Ideen eingebracht oder die Prioritäten angepasst werden.
+3. Frage – Antwort
+Weil sie ständig auf neue Anforderungen und Gegebenheiten reagieren kann und so die Wünsche der Kunden am besten umsetzen kann, und dabei auch Rücksicht auf die Ressourcenplanung nimmt. 
+
+
+
