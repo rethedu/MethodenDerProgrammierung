@@ -1,0 +1,22 @@
+Fragen zum Kapitel 6.5
+
+1. Frage: Was ist der Vorteil von einem Build Script? Wieso sollte ein Projekt ein automatisches Build Script haben?
+Repetive Aufgaben werden dem Programmierer abgenommen.
+Build Vorgänge werden innerhalb eines Teams vereinfacht.
+
+2. Frage: In Ant: Was ist ein Project, Property, Target und Task?
+Project: Höchste Stufe in einem Build File. Beinhaltet alle Informationen.
+Property: Konstanten für das gesammte Projekt die zentral definiert werden.
+Target: Gruppierung von eizelnen Aufgaben.
+Task: Einzelne Befehle die vom Script ausgeführt werden.
+
+3. Frage: Was fuer Build Scripts kennen Sie? Welches ist ihr Favorit?
+Die Frage nach konkreten Scripts scheint obsolet - es wird angenommen, dass einzelne Tools gemeint sind.
+Dann kann die Frage nur mit den in der Vorlesung vorgestellten Tools beantwortet werden:
+Maven 
+Ant 
+make
+
+Eventuell ist Serena ChangeMan auch als Build Tool zu definieren. Wäre dies der Fall, würde ChangeMan als mein favorisiertes Tool gelten, da es das einzige wirklich genutzte ist.
+
+Ansonsten wäre die Antwort Maven, da es wohl ein Tool ist das ich in Zukunft beherrsche.
