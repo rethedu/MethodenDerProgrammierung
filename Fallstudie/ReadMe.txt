@@ -1,6 +1,6 @@
 Hier werden einmal die Ergebnisse unserer Diskussion stehen.
 Wie wird die Zusammenarbeit im Hinblick auf Source Control geregelt
-- Git Repository "gruppenrepo-w1" auf GitHub
+- Git Repository "MethodenDerProgrammierung" auf GitHub
 
 Welches ist das geeignet Build Tool fuer das Projekt
 - Maven
