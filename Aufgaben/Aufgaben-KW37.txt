@@ -1,0 +1,14 @@
+﻿Fragen zu Kapitel 6.5
+Frage 1 – Antwort:
+
+
+Frage 2 – Antwort:
+Projects: Alles was im Build File enthalten ist, ist Teil eines Projekts
+Properties: Sind ähnlich wie Konstanten, werden zentral verwaltet und sind verweise auf Werte im Code
+Targets: Verschiedene Aktionen können in einem Target groupiert werden, um sie geordent auszuführen
+Tasks: Sind Verweise auf Befehle, wie z.B. mkdir
+
+Frage 3 – Antwort:
+nur IDE und make, Favorite ist schwer zu sagen, da ich mich bis jetzt nie damit auseinander gesetzt habe..
+
+
